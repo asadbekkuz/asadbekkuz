@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! </h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -37,8 +37,7 @@
 [![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://hub.docker.com/u/asadbekkuz)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/asadbekkuz)
 [![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)](https://hub.docker.com/u/asadbekkuz)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/asadbekkuz)
-[![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://hub.docker.com/u/asadbekkuz)
+
 
 ### Version Control Systems
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://hub.docker.com/u/asadbekkuz)
