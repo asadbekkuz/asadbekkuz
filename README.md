@@ -7,7 +7,7 @@
         I've been learning since 2020. <br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/asadbek-sotqinbayev-63904a228">
+    <a href="https://www.linkedin.com/in/asadbek-sotqinboyev/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:asadbekdev007@gmail.com">
